@@ -1,5 +1,9 @@
 # 📊 Hasil Latihan Excel
 
+<p align="center">
+  <img src="gaji.png" alt="gaji" />
+</p>
+
 Repository ini berisi kumpulan **hasil latihan Excel** dari berbagai studi kasus pengolahan data.  
 Semua pekerjaan dilakukan dengan **fungsi Excel** (lookup, IF, SUM, AVERAGE, dll) sesuai instruksi soal, **tanpa menggunakan PivotTable**.
 
