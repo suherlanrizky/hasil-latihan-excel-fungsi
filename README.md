@@ -1,6 +1,7 @@
-# 📊 Hasil Latihan Praktik Excel
+# 📊 Hasil Latihan Excel
 
-Repository ini berisi kumpulan **hasil latihan Excel** yang mencakup berbagai studi kasus pengolahan data, perhitungan gaji, laporan harian, tiket, hingga analisis menggunakan PivotTable.
+Repository ini berisi kumpulan **hasil latihan Excel** dari berbagai studi kasus pengolahan data.  
+Semua pekerjaan dilakukan dengan **fungsi Excel** (lookup, IF, SUM, AVERAGE, dll) sesuai instruksi soal, **tanpa menggunakan PivotTable**.
 
 ## 📂 Isi File
 - **Tiket** → Hasil pengolahan data tiket (kelas, jenis tiket, harga, diskon, harga bersih).
@@ -11,21 +12,23 @@ Repository ini berisi kumpulan **hasil latihan Excel** yang mencakup berbagai st
 - **Gaji2 & Gaji3** → Hasil daftar gaji karyawan dengan jabatan, status, tunjangan, potongan, dan gaji bersih.
 - **Tabel Soal** → Hasil latihan posisi kapal di pelabuhan, bongkar muat, biaya, dan rute.
 
-## 📝 Instruksi Latihan
-1. Gunakan **fungsi Excel** seperti `VLOOKUP`, `HLOOKUP`, `INDEX-MATCH`, `IF`, `SUM`, `AVERAGE`, dll.
-2. Terapkan **PivotTable** untuk menganalisis data (misalnya jumlah penghasilan, rata-rata, tertinggi, terendah).
-3. Ikuti instruksi di setiap sheet untuk mengisi kolom kosong berdasarkan tabel referensi.
-4. Latihan ini membantu memahami:
-   - Relasi antar tabel
-   - Penggunaan fungsi logika & lookup
-   - Perhitungan diskon, pajak, dan bonus
-   - Analisis data dengan PivotTable
+## 🛠️ Fungsi Excel yang Digunakan
+- `VLOOKUP` / `HLOOKUP`
+- `INDEX` + `MATCH`
+- `IF` / `IF-ELSE`
+- `SUM`, `AVERAGE`, `MIN`, `MAX`
+- Perhitungan diskon, bonus, dan gaji bersih
 
 ## 🎯 Tujuan
 - Melatih keterampilan **Excel dasar hingga menengah**.
-- Membiasakan diri dengan **analisis data praktis**.
+- Membiasakan diri dengan **analisis data praktis** menggunakan formula.
 - Menyiapkan kemampuan untuk pekerjaan di bidang **administrasi, data, dan informasi manajemen**.
+
+## 📌 Catatan
+Soal latihan diperoleh dari:  
+- [https://www.ambilaja.net](https://www.ambilaja.net)  
+- [https://www.pusatcaracara.com](https://www.pusatcaracara.com)
 
 ---
 
-melihat ringkasan data (misalnya total gaji, rata-rata penghasilan sopir, jumlah tiket per kelas).
+💡 Catatan: Semua hasil latihan dikerjakan sesuai instruksi soal yang ada di file Excel, **tanpa menggunakan PivotTable**.
